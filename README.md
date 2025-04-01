@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I am<br/><b><a target="_blank" href="https://www.sarthaksharma.com.np">Sarthak Sharma</a></b></h1>
+  <h3>Hello, I am <b><a target="_blank" href="https://www.sarthaksharma.com.np">Sarthak Sharma</a></b></h3>
   
   <h3>Full Stack JavaScript Developer</h3>
   
