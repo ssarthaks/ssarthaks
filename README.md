@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on my Smart Pet Store for my final year project, along with other cool college projects.<br><br>👯 I’ve just built a full-stack e-commerce website 🛒 and a custom portfolio website.<br><br>🌱 I’m currently exploring more about JavaScript full-stack frameworks.<br><br>💬 Ask me about JavaScript, Node.js, and full-stack development!<br><br>⚡ Fun fact: I love diving deep into new JS technologies and pushing the boundaries of full-stack development!
+# Sarthak Sharma
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ssarthaks&theme=dark&hide_border=false)
+### Full Stack JavaScript Developer
+
+![Pinterest Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Freferencias--74239093851038054%2F&psig=AOvVaw37BhG95t91fS1QXToQla_4&ust=1743597359639000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDGkbbstowDFQAAAAAdAAAAABAE)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=ssarthaks&theme=dark&hide_border=false)
