@@ -1,5 +1,5 @@
-<p align="center">
-  <h1>Hello, I am <br/> Sarthak Sharma</h1>
+<div align="center">
+  <h1>Hello, I am<br/><span style="color: purple;">Sarthak Sharma</span></h1>
   
   <h3>Full Stack JavaScript Developer</h3>
   
@@ -8,4 +8,4 @@
   <hr />
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=ssarthaks&theme=dark&hide_border=false" alt="GitHub Stats" />
-</p>
+</div>
