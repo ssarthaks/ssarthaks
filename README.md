@@ -7,7 +7,7 @@
   <h3 align="center">
     <samp>
         <br>
-        Full Stack JavaScript Developer
+        Software Developer
         <br/>
         <br>
     </samp>
