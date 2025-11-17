@@ -1,7 +1,3 @@
-![Metrics](/github-metrics.svg)
-  
-  
-  
   <h3 align="center">
     <samp>&gt; Hello!, I am
        <b><a target="_blank" href="https://www.sarthaksharma.com.np">Sarthak Sharma</a></b>
