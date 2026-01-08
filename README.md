@@ -25,3 +25,7 @@
       <img src="https://nirzak-streak-stats.vercel.app?user=ssarthaks&theme=radical&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
       </a>
   </p>
+
+  <div>
+    ![GitHub Snake](https://raw.githubusercontent.com/ssarthaks/ssarthaks/output/github-snake-dark.svg)
+  </div>
