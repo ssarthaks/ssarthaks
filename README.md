@@ -27,5 +27,5 @@
   </p>
 
   <div>
-    ![GitHub Snake](https://raw.githubusercontent.com/ssarthaks/ssarthaks/output/github-snake-dark.svg)
+    ![snake gif](https://github.com/ssarthaks/ssarthaks/blob/output/github-snake-dark.svg)
   </div>
