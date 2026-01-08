@@ -21,8 +21,6 @@
   <br />
 
   <!-- Tech Stack -->
-  <p align="center">## 🛠️ Tech Stack & Tools</p>
-
   <div align="center">
 
 ## 🛠️ Tech Stack & Tools
@@ -35,17 +33,27 @@
 <!-- Social connections -->
 <div align="center">
 
-## 🌐 Connect with Me 🍬
+## 🌐 Connect with Me 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssarthak.s)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssarthaks/)
 
 </div>
 
+<div align="center">
 
+## 📊 GitHub Stats
+
+</div>
 <p align="center">
     <a href="https://github.com/ssarthaks/">
       <img src="https://nirzak-streak-stats.vercel.app?user=ssarthaks&theme=radical&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
     </a>
   </p>
+
+  <div align="center">
+
+## 🐍 Git Snake
+
+</div>
 
   <p align="center">
      <a href="https://github.com/ssarthaks/">
