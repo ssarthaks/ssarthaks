@@ -34,7 +34,7 @@
 <div align="center">
 
 ## 🌐 Connect with Me 
-<a href="https://www.sarthaksharma.com.np/"> ![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2) </a>
+<a href="https://www.sarthaksharma.com.np/" target="_blank"> ![Static Badge](https://img.shields.io/badge/Visit%20Portfolio-8A2BE2) </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssarthaks/)
 
 </div>
