@@ -21,9 +21,9 @@
   <br />
   
   <p align="center">
-      <a href="https://github.com/ssarthaks/">
-      <img src="https://nirzak-streak-stats.vercel.app?user=ssarthaks&theme=radical&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
-      </a>
+    <a href="https://github.com/ssarthaks/">
+      <img src="https://nirzak-streak-stats.vercel.app?user=ssarthaks&theme=radical&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+    </a>
   </p>
 
   <p align="center">
