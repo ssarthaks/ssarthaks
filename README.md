@@ -27,6 +27,8 @@
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ssarthaks/ssarthaks/output/github-snake-dark.svg" />
+     <a href="https://github.com/ssarthaks/">
+      <img src="https://raw.githubusercontent.com/ssarthaks/ssarthaks/output/github-snake-dark.svg" />
+     </a>
   </p>
 
