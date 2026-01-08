@@ -45,10 +45,10 @@
 
 </div>
 <p align="center">
-    <a href="https://github.com/ssarthaks/">
-      <img src="https://nirzak-streak-stats.vercel.app?user=ssarthaks&theme=radical&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-    </a>
-  </p>
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ssarthaks&theme=buefy-dark&border_radius=15)](https://git.io/streak-stats)
+
+</p>
 
   <div align="center">
 
