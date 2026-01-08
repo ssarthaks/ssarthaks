@@ -21,7 +21,7 @@
   <br />
   
   <p align="center">
-      <a href="https://github.com/devrahulbanjara/">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ssarthaks&theme=radical&border=7F3FBF&background=0D1117" alt="Sarthak's GitHub Stats" />
+      <a href="https://github.com/ssarthaks/">
+      <img src="https://nirzak-streak-stats.vercel.app?user=ssarthaks&theme=radical&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
       </a>
   </p>
