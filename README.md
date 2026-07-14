@@ -1,12 +1,12 @@
 # Sarthak Sharma
 
-Full Stack Developer specializing in modern web applications using JavaScript and TypeScript. 
+Full Stack Developer & Data Analyst specializing in modern web applications and data-driven solutions using JavaScript, TypeScript, SQL and Python.
 
-Experienced with React, Next.js, Node.js, and Express, delivering clean, scalable, and production-ready solutions. Continuously learning and adapting to new technologies while writing maintainable, high-quality code.
+Experienced with React, Next.js, Node.js, Express, SQL, and modern analytics tools, building scalable applications, insightful dashboards, and production-ready solutions. Passionate about clean architecture, maintainable code, and turning data into meaningful insights.
 
-## Portfolio Website 
+## Portfolio Website
 
-Check out my portfolio for featured projects that highlight my hands-on experience, attention to detail, and ability to deliver high-quality web applications.
+Check out my portfolio to explore projects showcasing my experience in full-stack development, data analysis, and building high-quality digital products.
 
 <a href="https://www.sarthaksharma.com.np/" target="_blank">sarthaksharma.com.np</a>
 
@@ -61,9 +61,11 @@ Check out my portfolio for featured projects that highlight my hands-on experien
 
 </p>
 
-  <div align="center">
+-->
 
-## 🐍 Git Snake
+  <div>
+
+## 🐍 Git Orbit
 
 </div>
 
@@ -73,4 +75,3 @@ Check out my portfolio for featured projects that highlight my hands-on experien
      </a>
   </p>
 
--->
