@@ -62,10 +62,10 @@ Check out my portfolio to explore projects showcasing my experience in full-stac
 </p>
 
 -->
-
+<br  />
   <div>
 
-## 🐍 Git Orbit
+## Git Orbit
 
 </div>
 
