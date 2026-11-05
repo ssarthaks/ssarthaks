@@ -1,6 +1,6 @@
 # Sarthak Sharma
 
-Full Stack Developer with 2+ years of experience designing and shipping high-performance web applications in the Next.js / TypeScript / JavaScript / Node.js / SQL / NoSQL ecosystem.
+Full Stack Developer (Frontend Heavy) with 2+ years of experience designing and shipping high-performance web applications in the Next.js / TypeScript / JavaScript / Node.js / SQL / NoSQL ecosystem.
 
 <a href="https://www.sarthaksharma.com.np/" target="_blank"> ![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge)</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ssarthaks/)
